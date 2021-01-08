@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HiloDeber", "HiloDeber\HiloDeber.csproj", "{7E4DFCFB-C97C-4DB9-BAC3-867EE5FEBF2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hilovertical", "hilovertical\hilovertical.csproj", "{45D5D21E-382D-467D-92B8-C331FB1B33DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E4DFCFB-C97C-4DB9-BAC3-867EE5FEBF2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E4DFCFB-C97C-4DB9-BAC3-867EE5FEBF2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E4DFCFB-C97C-4DB9-BAC3-867EE5FEBF2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E4DFCFB-C97C-4DB9-BAC3-867EE5FEBF2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45D5D21E-382D-467D-92B8-C331FB1B33DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45D5D21E-382D-467D-92B8-C331FB1B33DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45D5D21E-382D-467D-92B8-C331FB1B33DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45D5D21E-382D-467D-92B8-C331FB1B33DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2952A985-6FEA-4206-A979-792C2DC6763C}
+	EndGlobalSection
+EndGlobal

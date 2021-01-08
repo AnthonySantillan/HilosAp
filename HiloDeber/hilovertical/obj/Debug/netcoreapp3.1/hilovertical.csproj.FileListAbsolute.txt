@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\HiloDeber\HiloDeber\hilovertical\bin\Debug\netcoreapp3.1\hilovertical.exe
+C:\Users\hp\source\repos\HiloDeber\HiloDeber\hilovertical\bin\Debug\netcoreapp3.1\hilovertical.deps.json
+C:\Users\hp\source\repos\HiloDeber\HiloDeber\hilovertical\bin\Debug\netcoreapp3.1\hilovertical.runtimeconfig.json
+C:\Users\hp\source\repos\HiloDeber\HiloDeber\hilovertical\bin\Debug\netcoreapp3.1\hilovertical.runtimeconfig.dev.json
+C:\Users\hp\source\repos\HiloDeber\HiloDeber\hilovertical\bin\Debug\netcoreapp3.1\hilovertical.dll
+C:\Users\hp\source\repos\HiloDeber\HiloDeber\hilovertical\bin\Debug\netcoreapp3.1\hilovertical.pdb
+C:\Users\hp\source\repos\HiloDeber\HiloDeber\hilovertical\obj\Debug\netcoreapp3.1\hilovertical.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\HiloDeber\HiloDeber\hilovertical\obj\Debug\netcoreapp3.1\hilovertical.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\HiloDeber\HiloDeber\hilovertical\obj\Debug\netcoreapp3.1\hilovertical.AssemblyInfo.cs
+C:\Users\hp\source\repos\HiloDeber\HiloDeber\hilovertical\obj\Debug\netcoreapp3.1\hilovertical.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\HiloDeber\HiloDeber\hilovertical\obj\Debug\netcoreapp3.1\hilovertical.dll
+C:\Users\hp\source\repos\HiloDeber\HiloDeber\hilovertical\obj\Debug\netcoreapp3.1\hilovertical.pdb
+C:\Users\hp\source\repos\HiloDeber\HiloDeber\hilovertical\obj\Debug\netcoreapp3.1\hilovertical.genruntimeconfig.cache
